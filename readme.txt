@@ -4,4 +4,8 @@ Git is free software.
 再加一行新内容
 Git tracks changes.
 分支测试
-master分支修改
+<<<<<<< HEAD
+分支测试_feature
+=======
+分支测试_feature
+>>>>>>> feature1
